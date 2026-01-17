@@ -42,17 +42,11 @@ src/
 
 ---
 
-## 📱 Demonstração
+## 🎥 Demonstração do fluxo completo: login com Google, dashboard, transações e layout responsivo.
 
-📌 O projeto não está publicado em produção.
+https://github.com/user-attachments/assets/31001282-11b4-45ae-a879-da816ebaa049
 
-### 🖥️ Versão Desktop
-
-https://github.com/johnatang3/devbills-frontend/src/assets/desktop.mp4
-
-### 📱 Responsividade (Mobile / Tablet)
-
-https://github.com/johnatang3/devbills-frontend/src/assets/mobile.mp4
+https://github.com/user-attachments/assets/1f72f975-f781-4661-80f3-28a92e45a978
 
 Essa abordagem foi escolhida para demonstrar as funcionalidades sem necessidade de deploy.
 
