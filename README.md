@@ -42,9 +42,13 @@ src/
 
 ---
 
-## 🎥 Demonstração do fluxo completo: login com Google, dashboard, transações e layout responsivo.
+## 🎥 Demonstração do fluxo completo.
+
+### 🎥 Demonstração autenticação, dashboard e navegação.
 
 https://github.com/user-attachments/assets/31001282-11b4-45ae-a879-da816ebaa049
+
+### 🎥 Demonstração da adaptação da interface para telas menores, mantendo usabilidade.
 
 https://github.com/user-attachments/assets/1f72f975-f781-4661-80f3-28a92e45a978
 
