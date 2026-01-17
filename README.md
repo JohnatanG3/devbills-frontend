@@ -48,11 +48,11 @@ src/
 
 ### 🖥️ Versão Desktop
 
-https://github.com/johnatang3/devbills-frontend/assets/desktop.mp4
+https://github.com/johnatang3/devbills-frontend/src/assets/desktop.mp4
 
 ### 📱 Responsividade (Mobile / Tablet)
 
-https://github.com/johnatang3/devbills-frontend/assets/mobile.mp4
+https://github.com/johnatang3/devbills-frontend/src/assets/mobile.mp4
 
 Essa abordagem foi escolhida para demonstrar as funcionalidades sem necessidade de deploy.
 
